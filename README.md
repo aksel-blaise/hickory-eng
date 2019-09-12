@@ -1,6 +1,6 @@
 # hickory-eng
 
-This article, entitled "Ceramic morphological organisation in the Southern Caddo Area: Quiddity of shape for Hickory Engraved bottles," was published in the [Journal of Archaeological Science: Reports](https://doi.org/10.1016/j.jasrep.2018.08.045) in 2017, and the preprint is available for download on [SocArXiv](https://osf.io/preprints/socarxiv/6rbd3/). The LaTeX scripts are included in this repository, and can be viewed on [Overleaf](https://www.overleaf.com/read/prfwtmdjzcnh). Unprocessed data have been uploaded to the Open Science Framework, and the processed meshes to Zenodo @ CERN. The unprocessed and processed datasets are embargoed for a period of five years from the most recent publication that uses them.
+This article, entitled "Ceramic morphological organisation in the Southern Caddo Area: Quiddity of shape for Hickory Engraved bottles," was published in the [Journal of Archaeological Science: Reports](https://doi.org/10.1016/j.jasrep.2018.08.045) in 2018, and the preprint is available for download on [SocArXiv](https://osf.io/preprints/socarxiv/6rbd3/). The LaTeX scripts are included in this repository, and can also be viewed on [Overleaf](https://www.overleaf.com/read/prfwtmdjzcnh). Unprocessed data have been uploaded to the Open Science Framework, and the processed meshes to Zenodo @ CERN. The unprocessed and processed datasets are embargoed for a period of five years from the most recent publication that uses them.
 
 ![](comparemeangh.png)
 
